@@ -1,6 +1,6 @@
 ---
 - name: Installer Java et Grails
-  hosts: all
+  hosts: localhost
   become: true
 
   tasks:

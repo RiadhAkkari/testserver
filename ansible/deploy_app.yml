@@ -1,6 +1,6 @@
 ---
 - name: Déployer l'application
-  hosts: all
+  hosts: localhost
   become: true
 
   tasks:
